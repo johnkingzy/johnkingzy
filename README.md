@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I love building accessible, human-centered products and I help businesses build Elegant/Robust/Scalable software with the best tools..
 - 🌱 I’m on a journey of self discovery.
-- 👯 I’m looking to collaborate on ideas that can be open sourced.
+- 👯 I’m looking to collaborate on SAAS ideas.
 - 💬 Ask me about anything, and I will be honest with you if I don't know the answer.
 - 📫 How to reach me: 🌎 https://johnkingzy.dev | 📨 johnkingzy@gmail.com | ✍🏻 https://medium.com/johnkingzy 🤝 
 - What am I passionate about?

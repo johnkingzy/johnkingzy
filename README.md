@@ -15,10 +15,10 @@ _Je m'appelle_ Kingsley Solomon.
 
 🌟 Passions:
 
-Design patterns
-Complex algorithms
-Microservice architecture
-Data structures
-Web accessibility (UI/UX)
-Data visualization
+> Design patterns
+> Complex algorithms
+> Microservice architecture
+> Data structures
+> Web accessibility (UI/UX)
+> Data visualization
 🤖 Also intrigued by the realm of AI.

@@ -24,5 +24,7 @@ _Je m'appelle_ Kingsley Solomon.
 > Data structures
 
 > Web accessibility (UI/UX)
+
 > Data visualization
+
 🤖 Also intrigued by the realm of AI.

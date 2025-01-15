@@ -11,7 +11,7 @@ _Je m'appelle_ Kingsley Solomon.
 
 💬 Feel free to ask me anything; I'll provide honest answers, even if it's "I don't know."
 
-📫 Connect with me: 🌎 https://johnkingzy.dev | 📨 johnkingzy@gmail.com | ✍🏻 https://medium.com/johnkingzy 🤝
+📫 Connect with me: 🌎 https://maximuf.dev | 📨 johnkingzy@gmail.com | ✍🏻 https://medium.com/johnkingzy 🤝
 
 🌟 Passions:
 
